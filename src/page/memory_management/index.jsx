@@ -129,7 +129,7 @@ function MemoryManagement() {
             rules={[
               {
                 required: true,
-                message: "Please enter Memory's Name",
+                message: "Please enter Memory's Name!",
               },
             ]}
           >
@@ -141,7 +141,7 @@ function MemoryManagement() {
             rules={[
               {
                 required: true,
-                message: "Please enter Memory's Category",
+                message: "Please enter Memory's Category!",
               },
             ]}
           >
